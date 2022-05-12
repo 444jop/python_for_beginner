@@ -7,3 +7,5 @@ print(type(boolVar))
 print(type(intVar))
 print(type(floatVar))
 print(type(strVar))
+
+# 깃테스트
